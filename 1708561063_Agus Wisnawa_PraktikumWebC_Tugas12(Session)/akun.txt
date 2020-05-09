@@ -1,0 +1,4 @@
+akun:	- admin 	: agus
+	  password	: agus123
+	- mahasiswa	: mahasiswa
+	  password	: punten		
